@@ -23,4 +23,3 @@ if(file_exists('halt')){
 		exit;
 	}
 }
- 
